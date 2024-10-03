@@ -1,0 +1,159 @@
+SearchInterface {
+    border: none;
+    background-color: transparent;
+}
+
+GamesView {
+    border: 1px solid rgb(35, 35, 35);
+    border-radius: 6px;
+    background-color: rgba(255, 255, 255, 0.051);
+}
+
+GamesTab {
+    /* border-right: 1px solid rgb(230, 230, 230); */
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+    border-right: 1px solid rgb(82, 82, 82);
+    background-color: rgba(255, 255, 255, 0.051);
+}
+
+GamesTab>QLabel {
+    color: white;
+    font: 14px 'Segoe UI', 'Microsoft YaHei';
+}
+
+#emptyLabel {
+    color: white;
+    font: 14px 'Segoe UI', 'Microsoft YaHei';
+}
+
+GameTab {
+    border: 1px solid;
+    border-radius: 6px;
+}
+
+GameTab[selected=true] {
+    border-width: 3px;
+}
+
+GameTab>QLabel {
+    color: white;
+    font: 14px 'Segoe UI', 'Microsoft YaHei';
+}
+
+GameTab>#time {
+    font: 12px;
+}
+
+GameDetailView {
+    /* border-left: 1px solid rgb(230, 230, 230);
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px; */
+    background-color: transparent;
+}
+
+GameTitleBar>#resultLabel {
+    color: white;
+    font: bold 28px 'Segoe UI', 'Microsoft YaHei';
+}
+
+GameTitleBar>#infoLabel {
+    color: white;
+    font: 12px 'Segoe UI', 'Microsoft YaHei';
+}
+
+GameTitleBar {
+    border: 1px solid rgb(82, 82, 82);
+    border-radius: 6px;
+    background-color: rgba(255, 255, 255, 0.051);
+}
+
+TeamView {
+    border: 1px solid rgb(82, 82, 82);
+    border-radius: 6px;
+    background-color: rgba(255, 255, 255, 0.051);
+}
+
+TeamView>#teamResult {
+    font: bold 18px 'Segoe UI', 'Microsoft YaHei';
+    padding-left: 1px;
+}
+
+TeamView>#dmgIconLabel {
+    font: bold 14px 'Segoe UI', 'Microsoft YaHei';
+    color: rgb(240, 230, 210)
+}
+
+TeamView>QLabel {
+    color: white;
+    font: 14px 'Segoe UI', 'Microsoft YaHei';
+}
+
+SummonerInfoBar>QLabel {
+    font: 14px 'Segoe UI', 'Microsoft YaHei';
+    color: white;
+}
+
+SummonerInfoBar {
+    border: 1px solid rgb(92, 92, 92);
+    border-radius: 6px;
+}
+
+
+SummonerInfoBar>#levelLabel {
+    color: white;
+    font: 14px 'Segoe UI', 'Microsoft YaHei';
+}
+
+SummonerInfoBar#currentSummonerWidget>#levelLabel {
+    font: bold 14px 'Segoe UI', 'Microsoft YaHei';
+    color: --ThemeColorPrimary;
+}
+
+SummonerName {
+    font: 14px 'Segoe UI', 'Microsoft YaHei', 'PingFang SC';
+    text-align: left;
+    padding: 0px 6px 2px 6px;
+    color: white;
+    border: none;
+    background-color: transparent;
+}
+
+#gameScrollArea {
+    border: none;
+    background: transparent;
+}
+
+#scrollWidget {
+    border: none;
+    background: transparent;
+}
+
+SummonerName:hover {
+    color: --ThemeColorDark1;
+}
+
+SummonerName[pressed=true] {
+    color: --ThemeColorDark3;
+}
+
+SummonerName:disabled {
+    color: rgba(255, 255, 255, 0.43);
+    background-color: transparent;
+}
+
+
+SummonerInfoBar#currentSummonerWidget>SummonerName {
+    font: bold;
+    color: --ThemeColorPrimary;
+}
+
+SummonerInfoBar#currentSummonerWidget>SummonerName:hover {
+    font: bold;
+    color: --ThemeColorDark1;
+}
+
+SummonerInfoBar#currentSummonerWidget>SummonerName[pressed=true] {
+    font: bold;
+    color: --ThemeColorDark3;
+}

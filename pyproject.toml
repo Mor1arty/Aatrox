@@ -1,0 +1,10 @@
+[project]
+name = "lolarena"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "aiohttp>=3.10.6",
+    "khl-py>=0.3.17",
+]

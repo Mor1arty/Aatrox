@@ -1,0 +1,72 @@
+2024-10-01 02:21:42,900 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 02:22:56,638 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 02:27:46,977 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 02:33:52,376 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 02:34:15,072 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 02:35:30,299 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 02:37:59,612 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 02:38:36,440 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 02:39:24,065 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 02:39:40,144 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 02:40:36,075 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 02:42:47,721 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 11:21:55,450 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 11:29:31,941 - [Connector] ERROR - exit getSummonerByName: Traceback (most recent call last):
+  File "d:\Projects\LolArena\app\lol\connector.py", line 87, in wrapper
+    async with connector.semaphore:
+TypeError: 'NoneType' object does not support the asynchronous context manager protocol
+
+2024-10-01 11:30:15,900 - [Connector] ERROR - exit getSummonerByName: Traceback (most recent call last):
+  File "d:\Projects\LolArena\app\lol\connector.py", line 87, in wrapper
+    async with connector.semaphore:
+TypeError: 'NoneType' object does not support the asynchronous context manager protocol
+
+2024-10-01 11:30:52,136 - [Connector] ERROR - exit getSummonerByName: Traceback (most recent call last):
+  File "d:\Projects\LolArena\app\lol\connector.py", line 87, in wrapper
+    async with connector.semaphore:
+TypeError: 'NoneType' object does not support the asynchronous context manager protocol
+
+2024-10-01 11:32:33,026 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 11:39:22,058 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 11:43:43,798 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 13:07:41,987 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 13:08:15,587 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 13:09:04,027 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 13:10:05,463 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 13:16:32,555 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 13:18:30,952 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 13:19:56,804 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 13:20:33,003 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 13:24:51,923 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 13:26:50,023 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 13:32:37,209 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 13:34:56,322 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 13:35:44,958 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 13:53:50,725 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 14:07:01,547 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 16:36:21,641 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 16:37:39,183 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 16:37:58,918 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 16:38:21,977 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 16:39:18,894 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 16:39:44,680 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 16:44:03,379 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 16:45:34,026 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 16:46:09,549 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 16:46:49,222 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 16:47:22,163 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 16:47:34,576 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 16:51:15,846 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 16:52:59,111 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 16:56:56,967 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 17:01:56,595 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 17:02:38,818 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 17:03:05,277 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 17:03:21,885 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 17:08:14,000 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 17:09:09,047 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 17:10:06,490 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 17:10:21,768 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 17:11:37,195 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 17:11:55,113 - [Connector] CRITICAL - connector started, server: NJ100
+2024-10-01 17:12:32,971 - [Connector] CRITICAL - connector started, server: NJ100
